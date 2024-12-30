@@ -1,6 +1,6 @@
 ### Hi, i'm Kauã de sousa
-#### Back-end developer constantly seeking improvement. 
-#### Passionate about technology
+#### Full-stack developer constantly seeking improvement. 
+#### Love learning new technologies 
 # My skills 📖
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
